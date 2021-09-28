@@ -1,0 +1,5 @@
+# name length
+S1	1
+S2	3
+S3	2
+S4	2
